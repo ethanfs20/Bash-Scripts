@@ -1,2 +1,2 @@
 # Bash-Scripts
-A collection of scripts written in the BASH language.
+A collection of scripts written in shell.
